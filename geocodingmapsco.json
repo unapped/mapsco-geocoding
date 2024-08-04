@@ -60,7 +60,7 @@
                 "address": {
                     "description": "address",
                     "data_type": "string",
-                    "required": false,
+                    "required": true,
                     "primary": false,
                     "contains": [
                         "street address"
@@ -143,7 +143,7 @@
                 "latitude": {
                     "description": "latitude coordinate",
                     "data_type": "string",
-                    "required": false,
+                    "required": true,
                     "primary": false,
                     "contains": [
                         "latitude"
@@ -158,7 +158,7 @@
                 "longitude": {
                     "description": "longitude coordinate",
                     "data_type": "string",
-                    "required": false,
+                    "required": true,
                     "primary": false,
                     "contains": [
                         "longitude"
