@@ -58,7 +58,7 @@
             "read_only": true,
             "parameters": {
                 "address": {
-                    "description": "address",
+                    "description": "Address",
                     "data_type": "string",
                     "required": true,
                     "primary": false,
