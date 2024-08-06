@@ -186,7 +186,7 @@ class GeocodingMapsCoConnector(BaseConnector):
         api_key = config.get('api_key')
 
         ret_val, response = self._make_rest_call(
-            '/search?api_key={0}&q={1}'.format(api_key,address), action_result, params=None, headers=None
+            '/search?api_key={0}&q={1}'.format(api_key, address), action_result, params=None, headers=None
         )
 
         if phantom.is_fail(ret_val):
@@ -207,7 +207,7 @@ class GeocodingMapsCoConnector(BaseConnector):
         api_key = config.get('api_key')
 
         ret_val, response = self._make_rest_call(
-            '/reverse?api_key={0}&lat={1}&lon={2}'.format(api_key,lat,lon), action_result, params=None, headers=None
+            '/reverse?api_key={0}&lat={1}&lon={2}'.format(api_key, lat, lon), action_result, params=None, headers=None
         )
 
         if phantom.is_fail(ret_val):
