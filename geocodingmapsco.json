@@ -9,7 +9,7 @@
     "product_name": "Geocoding by Map Maker",
     "python_version": "3",
     "product_version_regex": ".*",
-    "publisher": "Splunk",
+    "publisher": "Unapproved",
     "license": "Copyright (c) Unapped, 2024",
     "app_version": "1.0.0",
     "utctime_updated": "2024-07-24T11:39:05.077486Z",
