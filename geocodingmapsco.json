@@ -17,6 +17,7 @@
     "main_module": "geocodingmapsco_connector.py",
     "min_phantom_version": "6.2.1",
     "app_wizard_version": "1.0.0",
+    "fips_compliant": false,
     "configuration": {
         "base_url": {
             "description": "Base URL for service (use default)",
