@@ -61,7 +61,6 @@
                         "street address"
                     ],
                     "order": 0,
-                    "nameError": false,
                     "primary": true
                 }
             },
