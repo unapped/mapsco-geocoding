@@ -1,4 +1,4 @@
-[comment]: # "File: manual_readme_content.md"
+[comment]: # "File: README.md"
 [comment]: # ""
 [comment]: # "Copyright (c) Unapped, 2024"
 [comment]: # ""
